@@ -1,0 +1,121 @@
+Info: Processing symbol 'U1:Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm'.
+Added U1 (footprint 'Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm to ESP32-S3.
+Updated U1 symbol association from  to /3021fe6b-de7b-45d1-be0a-b81a54ababc5.
+Updated U1 properties.
+Add net unconnected-(U1-LNA_IN/RF-Pad1).
+Connected U1 pin 1 to unconnected-(U1-LNA_IN/RF-Pad1).
+Add net VDD3P3.
+Connected U1 pin 2 to VDD3P3.
+Connected U1 pin 3 to VDD3P3.
+Add net unconnected-(U1-CHIP_PU/RESET-Pad4).
+Connected U1 pin 4 to unconnected-(U1-CHIP_PU/RESET-Pad4).
+Add net unconnected-(U1-GPIO0/BOOT-Pad5).
+Connected U1 pin 5 to unconnected-(U1-GPIO0/BOOT-Pad5).
+Add net unconnected-(U1-GPIO1/ADC1_CH0-Pad6).
+Connected U1 pin 6 to unconnected-(U1-GPIO1/ADC1_CH0-Pad6).
+Add net unconnected-(U1-GPIO2/ADC1_CH1-Pad7).
+Connected U1 pin 7 to unconnected-(U1-GPIO2/ADC1_CH1-Pad7).
+Add net unconnected-(U1-GPIO3/ADC1_CH2-Pad8).
+Connected U1 pin 8 to unconnected-(U1-GPIO3/ADC1_CH2-Pad8).
+Add net unconnected-(U1-GPIO4/ADC1_CH3-Pad9).
+Connected U1 pin 9 to unconnected-(U1-GPIO4/ADC1_CH3-Pad9).
+Add net unconnected-(U1-GPIO5/ADC1_CH4-Pad10).
+Connected U1 pin 10 to unconnected-(U1-GPIO5/ADC1_CH4-Pad10).
+Add net unconnected-(U1-GPIO6/ADC1_CH5-Pad11).
+Connected U1 pin 11 to unconnected-(U1-GPIO6/ADC1_CH5-Pad11).
+Add net unconnected-(U1-GPIO7/ADC1_CH6-Pad12).
+Connected U1 pin 12 to unconnected-(U1-GPIO7/ADC1_CH6-Pad12).
+Add net unconnected-(U1-GPIO8/ADC1_CH7-Pad13).
+Connected U1 pin 13 to unconnected-(U1-GPIO8/ADC1_CH7-Pad13).
+Add net unconnected-(U1-GPIO9/ADC1_CH8-Pad14).
+Connected U1 pin 14 to unconnected-(U1-GPIO9/ADC1_CH8-Pad14).
+Add net unconnected-(U1-GPIO10/ADC1_CH9-Pad15).
+Connected U1 pin 15 to unconnected-(U1-GPIO10/ADC1_CH9-Pad15).
+Add net unconnected-(U1-GPIO11/ADC2_CH0-Pad16).
+Connected U1 pin 16 to unconnected-(U1-GPIO11/ADC2_CH0-Pad16).
+Add net unconnected-(U1-GPIO12/ADC2_CH1-Pad17).
+Connected U1 pin 17 to unconnected-(U1-GPIO12/ADC2_CH1-Pad17).
+Add net unconnected-(U1-GPIO13/ADC2_CH2-Pad18).
+Connected U1 pin 18 to unconnected-(U1-GPIO13/ADC2_CH2-Pad18).
+Add net unconnected-(U1-GPIO14/ADC2_CH3-Pad19).
+Connected U1 pin 19 to unconnected-(U1-GPIO14/ADC2_CH3-Pad19).
+Add net unconnected-(U1-VDD3P3_RTC-Pad20).
+Connected U1 pin 20 to unconnected-(U1-VDD3P3_RTC-Pad20).
+Add net unconnected-(U1-GPIO15/ADC2_CH4/XTAL_32K_P-Pad21).
+Connected U1 pin 21 to unconnected-(U1-GPIO15/ADC2_CH4/XTAL_32K_P-Pad21).
+Add net unconnected-(U1-GPIO16/ADC2_CH5/XTAL_32K_N-Pad22).
+Connected U1 pin 22 to unconnected-(U1-GPIO16/ADC2_CH5/XTAL_32K_N-Pad22).
+Add net unconnected-(U1-GPIO17/ADC2_CH6-Pad23).
+Connected U1 pin 23 to unconnected-(U1-GPIO17/ADC2_CH6-Pad23).
+Add net unconnected-(U1-GPIO18/ADC2_CH7-Pad24).
+Connected U1 pin 24 to unconnected-(U1-GPIO18/ADC2_CH7-Pad24).
+Add net unconnected-(U1-GPIO19/USB_D-/ADC2_CH8-Pad25).
+Connected U1 pin 25 to unconnected-(U1-GPIO19/USB_D-/ADC2_CH8-Pad25).
+Add net unconnected-(U1-GPIO20/USB_D+/ADC2_CH9-Pad26).
+Connected U1 pin 26 to unconnected-(U1-GPIO20/USB_D+/ADC2_CH9-Pad26).
+Add net unconnected-(U1-GPIO21-Pad27).
+Connected U1 pin 27 to unconnected-(U1-GPIO21-Pad27).
+Add net unconnected-(U1-SPI_CS1/GPIO26-Pad28).
+Connected U1 pin 28 to unconnected-(U1-SPI_CS1/GPIO26-Pad28).
+Add net unconnected-(U1-VDD_SPI-Pad29).
+Connected U1 pin 29 to unconnected-(U1-VDD_SPI-Pad29).
+Add net unconnected-(U1-SPIHD/GPIO27-Pad30).
+Connected U1 pin 30 to unconnected-(U1-SPIHD/GPIO27-Pad30).
+Add net unconnected-(U1-SPIWP/GPIO28-Pad31).
+Connected U1 pin 31 to unconnected-(U1-SPIWP/GPIO28-Pad31).
+Add net unconnected-(U1-SPICS0/GPIO29-Pad32).
+Connected U1 pin 32 to unconnected-(U1-SPICS0/GPIO29-Pad32).
+Add net unconnected-(U1-SPICLK/GPIO30-Pad33).
+Connected U1 pin 33 to unconnected-(U1-SPICLK/GPIO30-Pad33).
+Add net unconnected-(U1-SPIQ/GPIO31-Pad34).
+Connected U1 pin 34 to unconnected-(U1-SPIQ/GPIO31-Pad34).
+Add net unconnected-(U1-SPID/GPIO32-Pad35).
+Connected U1 pin 35 to unconnected-(U1-SPID/GPIO32-Pad35).
+Add net unconnected-(U1-SPICLK_N/GPIO48-Pad36).
+Connected U1 pin 36 to unconnected-(U1-SPICLK_N/GPIO48-Pad36).
+Add net unconnected-(U1-SPICLK_P/GPIO47-Pad37).
+Connected U1 pin 37 to unconnected-(U1-SPICLK_P/GPIO47-Pad37).
+Add net unconnected-(U1-GPIO33-Pad38).
+Connected U1 pin 38 to unconnected-(U1-GPIO33-Pad38).
+Add net unconnected-(U1-GPIO34-Pad39).
+Connected U1 pin 39 to unconnected-(U1-GPIO34-Pad39).
+Add net unconnected-(U1-GPIO35-Pad40).
+Connected U1 pin 40 to unconnected-(U1-GPIO35-Pad40).
+Add net unconnected-(U1-GPIO36-Pad41).
+Connected U1 pin 41 to unconnected-(U1-GPIO36-Pad41).
+Add net unconnected-(U1-GPIO37-Pad42).
+Connected U1 pin 42 to unconnected-(U1-GPIO37-Pad42).
+Add net unconnected-(U1-GPIO38-Pad43).
+Connected U1 pin 43 to unconnected-(U1-GPIO38-Pad43).
+Add net unconnected-(U1-MTCK/JTAG/GPIO39-Pad44).
+Connected U1 pin 44 to unconnected-(U1-MTCK/JTAG/GPIO39-Pad44).
+Add net unconnected-(U1-MTDO/JTAG/GPIO40-Pad45).
+Connected U1 pin 45 to unconnected-(U1-MTDO/JTAG/GPIO40-Pad45).
+Add net unconnected-(U1-VDD3P3_CPU-Pad46).
+Connected U1 pin 46 to unconnected-(U1-VDD3P3_CPU-Pad46).
+Add net unconnected-(U1-MTDI/JTAG/GPIO41-Pad47).
+Connected U1 pin 47 to unconnected-(U1-MTDI/JTAG/GPIO41-Pad47).
+Add net unconnected-(U1-MTMS/JTAG/GPIO42-Pad48).
+Connected U1 pin 48 to unconnected-(U1-MTMS/JTAG/GPIO42-Pad48).
+Add net unconnected-(U1-U0TXD/PROG/GPIO43-Pad49).
+Connected U1 pin 49 to unconnected-(U1-U0TXD/PROG/GPIO43-Pad49).
+Add net unconnected-(U1-U0RXD/PROG/GPIO44-Pad50).
+Connected U1 pin 50 to unconnected-(U1-U0RXD/PROG/GPIO44-Pad50).
+Add net unconnected-(U1-GPIO45-Pad51).
+Connected U1 pin 51 to unconnected-(U1-GPIO45-Pad51).
+Add net unconnected-(U1-GPIO46-Pad52).
+Connected U1 pin 52 to unconnected-(U1-GPIO46-Pad52).
+Add net unconnected-(U1-XTAL_N-Pad53).
+Connected U1 pin 53 to unconnected-(U1-XTAL_N-Pad53).
+Add net unconnected-(U1-XTAL_P-Pad54).
+Connected U1 pin 54 to unconnected-(U1-XTAL_P-Pad54).
+Add net Net-(U1-VDDA-Pad55).
+Connected U1 pin 55 to Net-(U1-VDDA-Pad55).
+Connected U1 pin 56 to Net-(U1-VDDA-Pad55).
+Add net unconnected-(U1-GND-Pad57).
+Connected U1 pin 57 to unconnected-(U1-GND-Pad57).
+
+
+Info: Total warnings: 0, errors: 0.
