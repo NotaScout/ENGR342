@@ -126,7 +126,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -459,22 +459,13 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "VDD3P3": "V+",
-      "unconnected-(U1-CHIP_PU{slash}RESET-Pad4)": "RESET",
-      "unconnected-(U1-GPIO0{slash}BOOT-Pad5)": "GPIO0/BOOT",
-      "unconnected-(U1-GPIO19{slash}USB_D-{slash}ADC2_CH8-Pad25)": "USB_D+",
-      "unconnected-(U1-GPIO20{slash}USB_D+{slash}ADC2_CH9-Pad26)": "USB_D-",
-      "unconnected-(U1-SPICLK{slash}GPIO30-Pad33)": "SPICLK",
-      "unconnected-(U1-SPID{slash}GPIO32-Pad35)": "SPID",
-      "unconnected-(U1-SPIHD{slash}GPIO27-Pad30)": "SPIHD",
-      "unconnected-(U1-SPIQ{slash}GPIO31-Pad34)": "SPIQ",
-      "unconnected-(U1-SPIWP{slash}GPIO28-Pad31)": "SPIWP",
-      "unconnected-(U1-SPI_CS1{slash}GPIO26-Pad28)": "SPICS1",
-      "unconnected-(U1-XTAL_N-Pad53)": "XTAL_N",
-      "unconnected-(U1-XTAL_P-Pad54)": "XTAL_P"
-    },
-    "netclass_patterns": []
+    "netclass_assignments": null,
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/GPIO4"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {

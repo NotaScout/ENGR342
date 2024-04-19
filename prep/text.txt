@@ -1,0 +1,6 @@
+Im not sure why not all components are importing into the PCB editiro correctly
+
+None of the schematic nets show up when Im assigning nets in PCB editor
+
+Set Netclasses in Schematic (any named) by right click > assign netclass, most are not neccesary to sassign, because they are default, and don't need to be impedance matched
+
