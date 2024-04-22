@@ -1,0 +1,7 @@
+-add RAM
+-fix USB
+ - Zeners linke in example
+ - add all PWR headers to VDDA pins
+-some stuff yes
+-add more values to components
+-imprt schematic to PCB
