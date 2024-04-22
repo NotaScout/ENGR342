@@ -5820,17 +5820,6 @@
 		)
 		(uuid "fc8b9b54-2b55-40ce-bcbd-92f8b3bc185d")
 	)
-	(label "GPIO12"
-		(at 58.42 109.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "025911e2-990e-4c61-a49a-2fc6afc9beff")
-	)
 	(label "GPIO45"
 		(at 267.97 105.41 0)
 		(fields_autoplaced yes)
@@ -5874,17 +5863,6 @@
 			(justify left bottom)
 		)
 		(uuid "0f6806d3-23fe-417f-88d5-da152c81b56a")
-	)
-	(label "GPIO3"
-		(at 58.42 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "14b5cc13-27d5-43dc-a91c-f910209bfd83")
 	)
 	(label "SPIQ"
 		(at 193.04 97.79 180)
@@ -5973,8 +5951,8 @@
 		)
 		(uuid "312eec30-fb2d-4d8b-9f56-d481ce09be6b")
 	)
-	(label "GPIO6"
-		(at 58.42 93.98 0)
+	(label "GPIO11"
+		(at 58.42 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5982,7 +5960,40 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "397f0d93-9bd7-4c3d-b69b-f977b966f4f7")
+		(uuid "32893ff1-519e-4176-a04f-0bed2339686f")
+	)
+	(label "GPIO9"
+		(at 58.42 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "33523054-399c-45f4-ab64-02b3de943f13")
+	)
+	(label "GPIO13"
+		(at 58.42 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "355d88d2-c3d8-4308-afd3-9be95409b7fd")
+	)
+	(label "GPIO8"
+		(at 58.42 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a401747-cba8-46e4-87cd-a1be1d446381")
 	)
 	(label "GPIO14"
 		(at 30.48 76.2 180)
@@ -6093,17 +6104,6 @@
 		)
 		(uuid "65f41699-f403-4612-aaf1-02c0ceca66e1")
 	)
-	(label "GPIO8"
-		(at 58.42 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66718840-25c4-40f6-a27d-0fbf3b217408")
-	)
 	(label "GPIO0{slash}BOOT"
 		(at 137.16 181.61 180)
 		(fields_autoplaced yes)
@@ -6181,17 +6181,6 @@
 		)
 		(uuid "7f6d6385-5997-441a-883e-036104bb2c88")
 	)
-	(label "GPIO10"
-		(at 58.42 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7fabf593-ba13-4c29-9533-121905374e51")
-	)
 	(label "XTAL_N"
 		(at 193.04 64.77 180)
 		(fields_autoplaced yes)
@@ -6213,6 +6202,17 @@
 			(justify left bottom)
 		)
 		(uuid "89fb1642-3db2-431f-9a39-6acdd0e2679f")
+	)
+	(label "GPIO10"
+		(at 58.42 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a350d0b-18d7-4b0a-bf10-234fa6cc4ed3")
 	)
 	(label "RESET"
 		(at 60.96 168.91 0)
@@ -6269,6 +6269,17 @@
 		)
 		(uuid "8dae118e-7870-4977-a303-cc16238df0ad")
 	)
+	(label "GPIO12"
+		(at 58.42 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8ef5c8b7-d0ad-4fcf-9945-026e346cbae3")
+	)
 	(label "SPID"
 		(at 140.97 106.68 0)
 		(fields_autoplaced yes)
@@ -6300,6 +6311,47 @@
 				(justify left)
 			)
 		)
+	)
+	(label "GPIO6"
+		(at 58.42 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "94105220-b4bd-44e5-bb85-e6f55383c9b5")
+	)
+	(label "GPIO4"
+		(at 58.42 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "959ef19d-f07f-4b45-b8ea-4b2c57deda5b")
+		(property "GPIO4" ""
+			(at 58.42 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(label "V+"
+		(at 34.29 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "97587729-680e-4eb3-8d3e-3d350b23c7bd")
 	)
 	(label "XTAL_P"
 		(at 193.04 62.23 180)
@@ -6345,17 +6397,6 @@
 		)
 		(uuid "99e2d860-ce13-4cbb-814b-8f70dbbf741d")
 	)
-	(label "GPIO13"
-		(at 58.42 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9dbf119d-5ebd-4d86-aaa4-723a6c6271da")
-	)
 	(label "GPIO17"
 		(at 30.48 78.74 180)
 		(fields_autoplaced yes)
@@ -6388,27 +6429,6 @@
 			(justify right bottom)
 		)
 		(uuid "ab3349de-e489-4183-949a-ffe66cb5c79f")
-	)
-	(label "GPIO3"
-		(at 58.42 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ad1a8593-28b9-48c5-bee6-b1be1a0ed5aa")
-		(property "GPIO3" ""
-			(at 58.42 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
 	)
 	(label "GPIO1"
 		(at 267.97 59.69 0)
@@ -6464,17 +6484,6 @@
 		)
 		(uuid "b4202348-76d1-4ac2-bbc6-54333dd9e06b")
 	)
-	(label "GPIO7"
-		(at 58.42 96.52 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b6229510-7d33-4cdc-8e35-b13b650ff3d0")
-	)
 	(label "GPIO4"
 		(at 267.97 67.31 0)
 		(effects
@@ -6504,17 +6513,6 @@
 			(justify left bottom)
 		)
 		(uuid "b7c88a6d-815d-453b-9da1-fa2a405e8c4f")
-	)
-	(label "GPIO5"
-		(at 58.42 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ba937992-4d9e-4881-9dc9-a89ab194e29d")
 	)
 	(label "GPIO18"
 		(at 267.97 97.79 0)
@@ -6571,17 +6569,6 @@
 		)
 		(uuid "d5819c8f-9fcc-4c96-83b8-8bd3f335fca9")
 	)
-	(label "GPIO9"
-		(at 58.42 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d6b4acbd-eeda-4671-948b-9be4b986ef3f")
-	)
 	(label "USB_D-"
 		(at 267.97 49.53 0)
 		(fields_autoplaced yes)
@@ -6592,6 +6579,27 @@
 			(justify left bottom)
 		)
 		(uuid "ddef0312-1cf4-471b-8a8c-17a82572671d")
+	)
+	(label "GPIO3"
+		(at 58.42 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de433ae7-495d-4857-8c6a-e05406b29712")
+		(property "GPIO3" ""
+			(at 58.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "GPIO21"
 		(at 267.97 100.33 0)
@@ -6615,24 +6623,16 @@
 		)
 		(uuid "e038c834-f170-4e6f-b276-d7db5f9c8092")
 	)
-	(label "GPIO4"
-		(at 58.42 88.9 0)
+	(label "GPIO7"
+		(at 58.42 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e3a7f616-a889-48d0-b59d-3e302998754a")
-		(property "GPIO4" ""
-			(at 58.42 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
+		(uuid "e41b95f4-a0c4-41a6-89a9-cb70a7b1e1dd")
 	)
 	(label "RESET"
 		(at 193.04 49.53 180)
@@ -6689,8 +6689,8 @@
 		)
 		(uuid "f1aa7911-d251-4932-975b-716b13eb844a")
 	)
-	(label "GPIO11"
-		(at 58.42 106.68 0)
+	(label "GPIO5"
+		(at 58.42 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6698,7 +6698,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f9b77879-27a5-4ff5-8824-c538f67bf6d9")
+		(uuid "ff39f577-564f-473f-99db-800b51ab831b")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -6828,6 +6828,73 @@
 			(project "Final Projeco"
 				(path "/8b757878-fa01-4873-9fb8-a8a3459e5aea"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 58.42 111.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e9f2cb0-59ae-47f2-bd35-f223ae642ff0")
+		(property "Reference" "#PWR020"
+			(at 64.77 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.23 111.7599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 58.42 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3044201-a118-4564-96d3-05a0d4ebcb0e")
+		)
+		(instances
+			(project "Final Projeco"
+				(path "/8b757878-fa01-4873-9fb8-a8a3459e5aea"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7238,7 +7305,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C291392"
+		(property "LCSC" "C2913194"
 			(at 229.87 77.47 0)
 			(effects
 				(font
