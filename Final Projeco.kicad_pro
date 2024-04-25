@@ -126,7 +126,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.5,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09,
         "min_via_annular_width": 0.13,
         "min_via_diameter": 0.3,
@@ -463,8 +463,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -479,9 +479,26 @@
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "track_width": 0.45,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "GND_PIN",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -496,9 +513,9 @@
         "name": "POWER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.408,
-        "via_drill": 0.254,
+        "track_width": 0.45,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -514,8 +531,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -531,8 +548,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.404,
-        "via_drill": 0.254,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -548,8 +565,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1499,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "via_diameter": 0.56,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -614,6 +631,14 @@
       {
         "netclass": "GND",
         "pattern": "GND"
+      },
+      {
+        "netclass": "GND_PIN",
+        "pattern": "/GND_PIN"
+      },
+      {
+        "netclass": "Z_Controlled",
+        "pattern": "/SPICLK_GPIO47"
       }
     ]
   },

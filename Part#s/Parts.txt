@@ -1,0 +1,23 @@
+C
+
+1uF - C29266
+0.1uF - C307331
+10uF -
+13pF - C161528
+
+R
+
+5.1k - C14677
+10k - C25744
+100k - C25741
+
+Cosc cap calc:
+https://forum.digikey.com/t/crystal-oscillator-load-cap-selection/1915
+example
+So to use the above formula
+( 2 x Load Capacitance of Crystal ) - Stray Capacitance
+
+( 2 * 9pF ) - 5pf = 13pF
+
+mine (for our Cosc its also 9, so we can just use a 12p)
+( 2 * 9pF ) - 5pf = 13pF
