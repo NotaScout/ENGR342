@@ -647,8 +647,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "fab/",
+      "pos_files": "CPL/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -718,7 +718,7 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
