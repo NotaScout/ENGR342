@@ -1,4 +1,4 @@
-23138704875912041
+23128429594599844
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87184,6 +87184,20 @@ rotary encoder
 0
 7
 6
+Schoon
+monochrome
+
+
+0
+0
+0
+Schoon
+small_front_monochrome
+
+
+0
+0
+0
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -94737,59 +94751,3 @@ Varistor VF
 0
 2
 2
-jlc
-ANT-SMD_UFL-R-SMT-1-10
-ANT-SMD_UFL-R-SMT-1-10 footprint
-ANT-SMD_UFL-R-SMT-1-10 footprint C88373
-0
-3
-3
-jlc
-CRYSTAL-SMD_4P-L2.0-W1.6-BL-A
-CRYSTAL-SMD_4P-L2.0-W1.6-BL-A footprint
-CRYSTAL-SMD_4P-L2.0-W1.6-BL-A footprint C501798
-0
-4
-4
-jlc
-KEY-SMD_4P-L3.1-W2.6_PTS830GG140SMTRLFS
-KEY-SMD_4P-L3.1-W2.6_PTS830GG140SMTRLFS footprint
-KEY-SMD_4P-L3.1-W2.6_PTS830GG140SMTRLFS footprint C221902
-0
-4
-4
-jlc
-SOD-323_L1.7-W1.3-LS2.5-RD
-SOD-323_L1.7-W1.3-LS2.5-RD footprint
-SOD-323_L1.7-W1.3-LS2.5-RD footprint C5345966
-0
-2
-2
-jlc
-SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
-SOP-8_L4.9-W3.9-P1.27-LS6.0-BL footprint
-SOP-8_L4.9-W3.9-P1.27-LS6.0-BL footprint C261881
-0
-8
-8
-jlc
-SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
-SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR footprint
-SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR footprint C113540
-0
-5
-5
-jlc
-USB-C-SMD_GT-USB-7004
-USB-C-SMD_GT-USB-7004 footprint
-USB-C-SMD_GT-USB-7004 footprint C2848971
-0
-16
-16
-jlc
-XDFN-4_L1.0-W1.0-P0.65-BL-EP
-XDFN-4_L1.0-W1.0-P0.65-BL-EP footprint
-XDFN-4_L1.0-W1.0-P0.65-BL-EP footprint C892227
-0
-5
-5
