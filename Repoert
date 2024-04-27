@@ -1,0 +1,11 @@
+#designConsiderations
+
+For the following project we will be using the Expressif ESP32-S2 to create a microcontroller capable of transcieving 2.4GHz WiFi signals. 
+
+After our first draft revsions, we have added zeners across the data+/- pins and raw power VBUS pins to ground. These will theoretically keep our current within acceptable limits. 
+source: https://electronics.stackexchange.com/questions/555093/what-is-the-purpose-of-this-zener-diode-from-usb-vbus-to-vcc
+
+Additionally, by popular request we have added an 8MB SRAM chip to allow for increased functionality. I also thought it would be cool to have headroom for more complexity.
+PN: LY68L6400SLIT
+
+As well the buttons have both been
